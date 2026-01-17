@@ -149,7 +149,7 @@
 
 ### 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniMonster&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ViniMonster&show_icons=true&theme=tokyonight&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniMonster&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ViniMonster&theme=tokyonight&layout=compact&langs_count=9)
 
